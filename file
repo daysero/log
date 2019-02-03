@@ -1,0 +1,8 @@
+1c:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Ellesmere [Radeon RX 470/480] [1002:67df] (rev e7)
+	Subsystem: Sapphire Technology Limited Ellesmere [Radeon RX 470/480/570/570X/580/580X/590] (Nitro+ Radeon RX 570/580) [1da2:e366]
+	Kernel modules: amdgpu
+1c:00.1 Audio device [0403]: Advanced Micro Devices, Inc. [AMD/ATI] Ellesmere [Radeon RX 570/580] [1002:aaf0]
+Graphics:  Device-1: Advanced Micro Devices [AMD/ATI] Ellesmere [Radeon RX 470/480] vendor: Sapphire Limited driver: N/A 
+           bus ID: 1c:00.0 chip ID: 1002:67df 
+           Display: tty server: X.org 1.20.3 driver: N/A tty: 128x48 
+           Message: Advanced graphics data unavailable in console for root. 
